@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Collections;
 
-//first and last occurence
+//first and last occurence in a
 public class First_last_occurence {
     public static int first = -1;
     public static int last = -1;
