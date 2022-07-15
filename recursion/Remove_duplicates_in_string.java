@@ -1,4 +1,4 @@
-// Removing duplicates in
+// Removing duplicates in a
 public class Remove_duplicates_in_string {
     public static boolean[] map = new boolean[26];
 
