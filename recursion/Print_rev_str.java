@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+//print
 public class Print_rev_str {
     public static void rev_str(String s, int iter) {
         System.out.print(s.charAt(iter));
