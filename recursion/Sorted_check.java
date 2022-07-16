@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-//this program checks
+//this program checks whether
 public class Sorted_check {
     public static int check(int a[], int i) {
         if (i == a.length - 1)
