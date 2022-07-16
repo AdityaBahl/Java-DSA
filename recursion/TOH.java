@@ -1,4 +1,4 @@
-//this program exhibits Tower of
+//this program exhibits Tower of Hanoi
 class TOH {
     public static void toh(int n, String src, String aux, String target) {
         if (n == 1) {
