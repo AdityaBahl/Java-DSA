@@ -1,5 +1,5 @@
 //un-comment example
-//This program showcases
+//This program showcases Inher
 
 //function overloading
 /*class Shape {
