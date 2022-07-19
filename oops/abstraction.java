@@ -1,4 +1,4 @@
-//this program showcases abs
+//this program showcases abstract
 abstract class Animal {
     abstract void walk();
 
