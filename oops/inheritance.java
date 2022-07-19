@@ -1,5 +1,5 @@
 //un-comment example
-//This progra
+//This program 
 
 //function overloading
 /*class Shape {
