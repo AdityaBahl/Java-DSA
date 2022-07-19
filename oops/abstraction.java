@@ -1,4 +1,4 @@
-//this program
+//this program show
 abstract class Animal {
     abstract void walk();
 
