@@ -1,4 +1,4 @@
-//this program is a
+//this program is an 
 interface Animal {// there can be no constructor in interface
     public void walk();// nor a non abstract function
 }
