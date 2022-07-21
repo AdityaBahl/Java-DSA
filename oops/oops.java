@@ -1,4 +1,4 @@
-//this program exhibit
+//this program exhibits 
 class Pen {
     String color;
     String type;
