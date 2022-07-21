@@ -1,4 +1,4 @@
-//this
+//this program
 class Pen {
     String color;
     String type;
