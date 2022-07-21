@@ -1,4 +1,4 @@
-//this program exhibits Object
+//this program exhibits Object Oriented
 class Pen {
     String color;
     String type;
