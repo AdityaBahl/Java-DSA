@@ -1,4 +1,4 @@
-//this
+//this program
 interface Animal {// there can be no constructor in interface
     public void walk();// nor a non abstract function
 }
