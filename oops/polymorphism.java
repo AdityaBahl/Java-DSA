@@ -1,4 +1,4 @@
-//this program is an example of
+//this program is an example of polymorphism
 //function overloading
 class Student {
     String name;
