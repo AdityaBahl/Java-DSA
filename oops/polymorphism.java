@@ -1,4 +1,4 @@
-//this program is an example
+//this program is an example of
 //function overloading
 class Student {
     String name;
