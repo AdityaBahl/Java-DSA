@@ -1,4 +1,4 @@
-//this program exhibits use of
+//this program exhibits use of static
 class Student {
     String name;
     static String school;
