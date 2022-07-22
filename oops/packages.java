@@ -1,7 +1,7 @@
 import java.util.*;
 import bank.*;
 
-//this program exhibits importing of user defined
+//this program exhibits importing of user defined packages
 public class Packages {
     public static void main(String[] args) {
         bank.Account account1 = new bank.Account();
