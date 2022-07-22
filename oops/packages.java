@@ -1,7 +1,7 @@
 import java.util.*;
 import bank.*;
 
-//this program
+//this program exhibits
 public class Packages {
     public static void main(String[] args) {
         bank.Account account1 = new bank.Account();
