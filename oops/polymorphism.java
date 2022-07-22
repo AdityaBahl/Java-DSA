@@ -1,4 +1,4 @@
-//this program is an exam
+//this program is an example
 //function overloading
 class Student {
     String name;
