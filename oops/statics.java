@@ -1,4 +1,4 @@
-//this program
+//this program exhibits
 class Student {
     String name;
     static String school;
