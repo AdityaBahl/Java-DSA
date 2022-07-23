@@ -1,4 +1,4 @@
-//this program is for pattern
+//this program is for pattern 2
 public class pattern2 {
     public static void main(String[] args) {
         for (int i = 0; i < 4; i++) {
