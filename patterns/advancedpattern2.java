@@ -1,4 +1,4 @@
-//this program is for advanced pattern
+//this program is for advanced pattern 2
 public class advancedpattern2 {
     public static void main(String[] args) {
         int n = 5, k = n - 1;
