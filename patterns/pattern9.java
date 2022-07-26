@@ -12,4 +12,7 @@ public class pattern9 {
             System.out.print("\n");
         }
     }
-}
+}10.128.0.0/20
+
+us central 1 10.164.0.0/20 europe-west 4 34.90.46.141mynet-eu-
+vm
