@@ -1,5 +1,5 @@
 
-//this program is
+//this program is for
 import java.util.Scanner;
 
 public class ques2 {
