@@ -1,7 +1,7 @@
 
-//this program is for question 2
 import java.util.Scanner;
 
+//this program is for question 2
 public class ques2 {
     public static void oddsum(int x) {
         int n = 0;
