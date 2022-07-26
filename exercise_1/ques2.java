@@ -1,4 +1,3 @@
-
 import java.util.Scanner;
 
 //this program is for question 2
