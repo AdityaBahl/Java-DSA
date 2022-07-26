@@ -1,3 +1,4 @@
+//
 public class advancedpattern3 {
     public static void main(String[] args) {
         int a = 1, n = 5, k = (n % 2 == 0) ? n / 2 : n / 2 + 1;
