@@ -1,5 +1,5 @@
 
-//
+//this
 import java.util.Scanner;
 
 public class ques2 {
