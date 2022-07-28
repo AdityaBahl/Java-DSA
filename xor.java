@@ -1,5 +1,5 @@
 import java.util.Scanner;
-//This program 
+//This program is 
 public class bit_manipulation1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
