@@ -1,6 +1,7 @@
 import java.util.Scanner;
-//This program is 
-public class bit_manipulation1 {
+
+//This program is showing
+public class xor {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();
