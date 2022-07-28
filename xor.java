@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-//This program is showing XOR
+//This program is showing XOR bit
 public class xor {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
