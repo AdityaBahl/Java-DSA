@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-//this program showcases right and
+//this program showcases right and left 
 public class bit_manipulation1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
