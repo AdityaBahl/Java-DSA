@@ -1,4 +1,5 @@
 import java.util.Scanner;
+//
 
 //get bit,set bit,clear bit,update bit
 //update bit operation- to point at a given bit and change it
