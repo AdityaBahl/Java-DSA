@@ -1,5 +1,5 @@
 import java.util.Scanner;
-//this program 
+//this program show
 
 //get bit,set bit,clear bit,update bit
 //set bit operation- to point at a given bit and set it as 1
