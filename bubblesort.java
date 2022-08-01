@@ -1,5 +1,5 @@
 import java.util.Scanner;
-//this program showcases bubblesor
+//this program showcases bubblesort
 
 public class bubblesort {
     public static void main(String args[]) {
