@@ -1,5 +1,5 @@
 import java.util.*;
-//this program showcases comparison operat
+//this program showcases comparison operato
 
 public class comparison {
     public static void main(String[] args) {
