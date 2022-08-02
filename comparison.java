@@ -1,5 +1,5 @@
 import java.util.*;
-//this program showcases
+//this program showcases com
 
 public class comparison {
     public static void main(String[] args) {
