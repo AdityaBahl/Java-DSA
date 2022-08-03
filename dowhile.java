@@ -1,5 +1,5 @@
 import java.util.Scanner;
-//this program showca
+//this program showcas
 
 public class dowhile {
     public static void main(String[] args) {
