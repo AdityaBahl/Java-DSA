@@ -1,5 +1,5 @@
 import java.util.Scanner;
-//this program showcases do-whi
+//this program showcases do-whil
 
 public class dowhile {
     public static void main(String[] args) {
