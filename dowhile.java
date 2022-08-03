@@ -1,5 +1,5 @@
 import java.util.Scanner;
-//this progr
+//this progra
 
 public class dowhile {
     public static void main(String[] args) {
