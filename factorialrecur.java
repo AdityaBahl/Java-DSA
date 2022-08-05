@@ -1,5 +1,5 @@
 import java.util.Scanner;
-//this program showcases factorial recu
+//this program showcases factorial recur
 
 public class factorialrecur {
     public static void printfact(int n) {
