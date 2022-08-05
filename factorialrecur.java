@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+
 public class factorialrecur {
     public static void printfact(int n) {
         if (n < 1) {
