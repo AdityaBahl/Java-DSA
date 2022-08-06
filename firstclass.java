@@ -1,5 +1,5 @@
 import java.util.*;
-//this program showcases first cla
+//this program showcases first clas
 
 class firstclass {
     public static void main(String[] args) {
