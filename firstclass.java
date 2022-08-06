@@ -1,5 +1,5 @@
 import java.util.*;
-//this program show
+//this program showc
 
 class firstclass {
     public static void main(String[] args) {
