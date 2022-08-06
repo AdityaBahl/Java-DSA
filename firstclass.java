@@ -1,5 +1,5 @@
 import java.util.*;
-//this progr
+//this progra
 
 class firstclass {
     public static void main(String[] args) {
