@@ -1,5 +1,5 @@
 import java.util.Scanner;
-//this program showcases for lo
+//this program showcases for loo
 
 public class forr {
     public static void main(String[] args) {
