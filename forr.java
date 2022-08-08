@@ -1,5 +1,5 @@
 import java.util.Scanner;
-//this program showcases f
+//this program showcases fo
 
 public class forr {
     public static void main(String[] args) {
