@@ -1,5 +1,5 @@
 import java.util.Scanner;
-//this p
+//this pr
 
 public class function {
     public static int solve(int a) {
