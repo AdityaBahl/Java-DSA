@@ -1,5 +1,5 @@
 import java.util.Scanner;
-//this program showcases functions(metho)
+//this program showcases functions(method)
 
 public class function {
     public static int solve(int a) {
