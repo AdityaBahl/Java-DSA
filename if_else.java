@@ -1,5 +1,5 @@
 import java.util.*;
-//this prog
+//this progr
 
 public class if_else {
     public static void main(String[] args) {
