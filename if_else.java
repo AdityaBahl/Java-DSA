@@ -1,5 +1,5 @@
 import java.util.*;
-//this program showcases if else control s
+//this program showcases if else control statement
 
 public class if_else {
     public static void main(String[] args) {
