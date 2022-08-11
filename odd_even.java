@@ -1,5 +1,5 @@
 import java.util.*;
-//this pro
+//this prog
 
 public class odd_even {
     public static void main(String[] args) {
