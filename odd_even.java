@@ -1,5 +1,5 @@
 import java.util.*;
-//this program showcases if a number is odd and even 
+//this program showcases if a number is odd or even 
 
 public class odd_even {
     public static void main(String[] args) {
