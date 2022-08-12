@@ -1,5 +1,5 @@
 import java.util.Scanner;
-//this program showcases st
+//this program showcases stri
 
 public class stringbuilder {
     public static void main(String[] args) {
