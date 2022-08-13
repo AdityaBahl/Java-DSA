@@ -1,4 +1,4 @@
-//this program 
+//this program s
 public class strings {
 
     public static void main(String[] args) {
