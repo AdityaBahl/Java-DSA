@@ -1,4 +1,4 @@
-//this program showca
+//this program showcas
 public class strings {
 
     public static void main(String[] args) {
