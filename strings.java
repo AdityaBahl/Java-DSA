@@ -1,4 +1,4 @@
-//this program s
+//this program sh
 public class strings {
 
     public static void main(String[] args) {
