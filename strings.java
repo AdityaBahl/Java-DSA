@@ -1,4 +1,4 @@
-//this program showcases s
+//this program showcases st
 public class strings {
 
     public static void main(String[] args) {
