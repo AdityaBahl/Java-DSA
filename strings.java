@@ -1,6 +1,6 @@
-//t
+//th
 public class strings {
-    
+
     public static void main(String[] args) {
         // string declaration
         String a = "og";
