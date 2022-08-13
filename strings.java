@@ -1,4 +1,4 @@
-//this prog
+//this progr
 public class strings {
 
     public static void main(String[] args) {
