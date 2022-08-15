@@ -1,5 +1,5 @@
 import java.util.*;
-//thi
+//this
 
 public class sum {
     public static void main(String[] args) {
