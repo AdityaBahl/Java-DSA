@@ -1,5 +1,5 @@
 import java.util.*;
-//this program showcases 
+//this program showcases s
 
 public class sum {
     public static void main(String[] args) {
