@@ -1,5 +1,5 @@
 import java.util.*;
-//this program showcases sum of 2 
+//this program showcases sum of 2 v
 
 public class sum {
     public static void main(String[] args) {
