@@ -1,5 +1,5 @@
 import java.util.*;
-//this statement showcases swi
+//this statement showcases swit
 
 public class switchh {
     public static void main(String[] args) {
