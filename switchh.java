@@ -1,5 +1,5 @@
 import java.util.*;
-//this statem
+//this stateme
 
 public class switchh {
     public static void main(String[] args) {
