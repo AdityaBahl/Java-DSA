@@ -1,5 +1,5 @@
 import java.util.Scanner;
-//this program showcases 2-D 
+//this program showcases 2-D a
 
 public class twodarray {
     public static void main(String[] args) {
