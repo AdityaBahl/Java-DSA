@@ -1,5 +1,5 @@
 import java.util.Scanner;
-//this pro
+//this prog
 
 public class twodarray {
     public static void main(String[] args) {
