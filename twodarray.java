@@ -1,5 +1,5 @@
 import java.util.Scanner;
-//th
+//thi
 
 public class twodarray {
     public static void main(String[] args) {
