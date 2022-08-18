@@ -1,5 +1,5 @@
 import java.util.Scanner;
-//this program showcases a 2-D array exercise
+//this program showcases a 2-D array exercises
 
 public class twodarraysexercise1 {
     public static void main(String[] args) {
