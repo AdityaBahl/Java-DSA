@@ -1,5 +1,5 @@
 import java.util.Scanner;
-//s
+//
 
 public class twodarraysexercise1 {
     public static void main(String[] args) {
