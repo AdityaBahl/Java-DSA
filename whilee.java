@@ -1,5 +1,5 @@
 import java.util.Scanner;
-//this program showcases whi
+//this program showcases whil
 
 public class whilee {
     public static void main(String[] args) {
