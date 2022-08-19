@@ -1,5 +1,5 @@
 import java.util.Scanner;
-//th
+//thi
 
 public class whilee {
     public static void main(String[] args) {
