@@ -1,5 +1,5 @@
 import java.util.Scanner;
-//this program showcases while
+//this program showcases while 
 
 public class whilee {
     public static void main(String[] args) {
